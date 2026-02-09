@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl      = "https://chonghua.github.io/"
 languageCode = "zh-cn"
-title        = "Hugo Theme Stack Starter"
+title        = "重华部落格"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n

@@ -51,7 +51,25 @@ SortBy              = "default"
 ## Comments
 [comments]
     enabled  = true
-    provider = "disqus"
+    provider = "Waline"
+
+     # Waline client configuration see: https://waline.js.org/en/reference/component.html
+    [comments.waline]
+        serverURL = ""
+        lang = ""
+        pageview = ""
+        emoji = [
+            "https://unpkg.com/@waline/emojis@1.0.1/weibo"
+        ]
+        requiredMeta = [
+            "name",
+            "email",
+            "url"
+        ]
+        [comments.waline.locale]
+            admin = "Admin"
+            placeholder = ""
+
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.

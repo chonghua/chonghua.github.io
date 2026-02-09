@@ -1,6 +1,7 @@
 # Rename this file to languages.toml to enable multilingual support
-[en]
-    languageName      = "English"
-    languagedirection = "ltr"
-    title             = "Example Site"
-    weight            = 1
+[zh]
+    languageName = "简体中文"
+    title        = "Hugo 主题 Stack"
+    weight       = 2
+    [zh.params.sidebar]
+        subtitle = "为博客设计的卡片式 Hugo 主题"

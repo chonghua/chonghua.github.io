@@ -13,7 +13,7 @@ description: New feature in AstroPaper v1.4.0, introducing dynamic OG image gene
 
 New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
 
-## Table of contents
+## Table of contents咔嗒咔嗒可靠的口袋空空
 
 ## Intro
 

@@ -1,5 +1,6 @@
 ---
 author: 测试
+pubDatetime: 2026-02-16
 title: Adding new posts in AstroPaper theme
 slug: adding-new-posts-in-astropaper-theme
 featured: false
